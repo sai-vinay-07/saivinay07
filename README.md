@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **NODE JS & EXPRESS JS**
 
-- 👯 I’m looking to collaborate on **JOB PORTAL**
+- 👯 I’m looking to do the **JOB PORTAL**
 
-- 💬 Ask me about **R**
+- 💬 Ask me about **React js**
 
 - 📫 How to reach me **saivinayguttula007@gmail.com**
 
